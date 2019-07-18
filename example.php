@@ -14,10 +14,10 @@ p
 {
 color:green;
 }
+</style>
 <script>
 document.write("this is java script");
 </script>
-</style>
 </head>
 <body>
 <?php $y++ $z="hello"; ?>
